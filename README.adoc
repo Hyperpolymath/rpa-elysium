@@ -2,7 +2,7 @@ image:https://img.shields.io/badge/License-MPL_2.0-blue.svg[MPL-2.0,link="https:
 image:https://img.shields.io/badge/Philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
 
 
-// SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
+// SPDX-License-Identifier: PMPL-1.0 OR AGPL-3.0-or-later
 // SPDX-FileCopyrightText: 2024-2025 hyperpolymath
 
 = RPA Elysium
