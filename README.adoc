@@ -241,7 +241,8 @@ All contributions must adhere to the link:.claude/CLAUDE.md[Hyperpolymath Langua
 
 == License
 
-Dual-licensed under MIT OR AGPL-3.0-or-later. See link:LICENSE.txt[LICENSE.txt].
+Palimpsest License (PMPL-1.0)
+2025 Jonathan D.A. Jewell
 
 == Author
 
