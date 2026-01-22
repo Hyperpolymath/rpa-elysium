@@ -210,7 +210,7 @@ rpa-elysium/
 │   ├── ai/               # AI components (Rust/WASM)
 │   ├── console/          # Management UI (ReScript)
 │   └── services/         # Backend services (Gleam)
-├── LICENSE.txt           # MIT OR AGPL-3.0-or-later
+├── LICENSE.txt           # MIT OR PMPL-1.0-or-later
 ├── README.adoc           # This file
 ├── ROADMAP.adoc          # Development roadmap
 └── justfile              # Build automation
